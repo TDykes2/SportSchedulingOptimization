@@ -1,9 +1,9 @@
-#UTK MSBA Project
+# UTK MSBA Project
 
-##Teammates include: 
+## Teammates include: 
 Whitson Buck, Tyler Dykes, DJ Fugate, Aaron Harper, Hannah Johnson, and Olivia Popp
 
-##Project Description:
+## Project Description:
 Project created for studnets to make a AMPL script to optimize a sports schedule. 
   - 12 Teams
   - 9 Weeks
@@ -20,11 +20,11 @@ Project created for studnets to make a AMPL script to optimize a sports schedule
     + Travel Friendly
     + Splitting up "Big TV Games"
 
-##Outcome: 
+## Outcome: 
 Created a dynamic AMPL script that optimized teams based upon above constraints.
 
 
-##Files Descriptions:
+## Files Descriptions:
 - ScheduleCheck.run
   + Runs the optimization file, and produces a file easier for reading
 - Distance.txt
